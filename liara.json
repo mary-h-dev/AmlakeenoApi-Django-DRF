@@ -1,0 +1,12 @@
+{
+  "django": {
+    "geospatial": true,
+    "pythonVersion": "3.10"
+  },
+  "disks": [
+    {
+      "name": "data",
+      "mountTo": "media"
+    }
+  ]
+}

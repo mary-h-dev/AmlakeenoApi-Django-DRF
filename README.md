@@ -30,6 +30,10 @@ This is the **backend API** for the Amlak platform, built with Django and Django
 | **Other Tools** | Python-dotenv, Pandas, Templated Mail, Jalali Support |
 
 ---
+## 🔗 Related Projects
+
+- 🖥️ **Frontend Repository:** [amlak-front (React + MUI)](https://github.com/mary-h-dev/amlak-front)
+- 🔙 **Backend Repository:** [amlak-api (Django + DRF + Langchain)](https://github.com/mary-h-dev/AmlakeenoApi-Django-DRF)
 
 ## 📦 Installation
 
@@ -40,9 +44,6 @@ git clone https://github.com/mary-h-dev/AmlakeenoApi-Django-DRF.git
 cd AmlakeenoApi-Django-DRF
 
 
-## 🔗 Related Projects
 
-- 🖥️ **Frontend Repository:** [amlak-front (React + MUI)](https://github.com/mary-h-dev/amlak-front)
-- 🔙 **Backend Repository:** [amlak-api (Django + DRF + Langchain)](https://github.com/mary-h-dev/AmlakeenoApi-Django-DRF)
 
 

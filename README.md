@@ -32,16 +32,16 @@ This is the **backend API** for the Amlak platform, built with Django and Django
 ---
 ## 🔗 Related Projects
 
-- 🖥️ **Frontend Repository:** [amlak-front (React + MUI)](https://github.com/mary-h-dev/amlak-front)
-- 🔙 **Backend Repository:** [amlak-api (Django + DRF + Langchain)](https://github.com/mary-h-dev/AmlakeenoApi-Django-DRF)
+- 🖥️ **Frontend Repository:** [amlak-front (React + MUI)](h[ttps://github.com/mary-h-dev/amlak-front](https://github.com/mary-h-dev/amlakeeno-client-react-leafLet))
+- 🔙 **Backend Repository:** [amlak-api (Django + DRF + Langchain)](https://github.com/mary-h-dev/mary-h-dev/amlakeeno-api-django-drf)
 
 ## 📦 Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mary-h-dev/AmlakeenoApi-Django-DRF.git
-cd AmlakeenoApi-Django-DRF
+git clone https://github.com/mary-h-dev/mary-h-dev/amlakeeno-api-django-drf.git
+cd mary-h-dev/amlakeeno-api-django-drf
 
 
 
